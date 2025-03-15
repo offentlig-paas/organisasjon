@@ -22,7 +22,8 @@ Medlemskap tildeles automatisk ved registrering i Offentlig PaaS Slacken.
 
 ## § 4 Stemmerett og valgbarhet
 
-Alle registrerte organisasjoner har én stemme hver, og alle registrerte medlemmer er valgbare til tillitsverv i Offentlig PaaS.
+Alle registrerte medlemmer er valgbare til tillitsverv i Offentlig PaaS, og alle organisasjoner representert av medlemmene tildeles én stemme hver.
+
 
 ## § 5 Årsmøte
 
